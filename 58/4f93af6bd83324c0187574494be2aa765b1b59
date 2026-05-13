@@ -1,0 +1,14 @@
+github/action.yml
+  h_58e1969d943a9b 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "584f93af6bd83324c0187574494be2aa765b1b59",
+  "prompts": {},
+  "humans": {
+    "h_58e1969d943a9b": {
+      "author": "Tim Alander"
+    }
+  }
+}
