@@ -1,0 +1,24 @@
+github/action.yml
+  ea7e32eb02332b0d 53
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.3.4",
+  "base_commit_sha": "87b14f129e1c6b838539ad3e75140f3cf04cb3e8",
+  "prompts": {
+    "ea7e32eb02332b0d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "e6b85501-b43e-43b3-8206-f8a6fa5b7aaa",
+        "model": "claude-opus-4-7"
+      },
+      "human_author": "Tim Alander",
+      "messages": [],
+      "total_additions": 1,
+      "total_deletions": 1,
+      "accepted_lines": 1,
+      "overriden_lines": 0,
+      "messages_url": "https://usegitai.com/cas/2e001d15227d62345fcd83d10e8eae3d318af746d394238ffe7ed2b2d91a73af"
+    }
+  }
+}
