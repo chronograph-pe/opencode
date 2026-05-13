@@ -50,7 +50,7 @@ runs:
 
     - name: Cache opencode
       id: cache
-      uses: chronograph-pe/cache@v4
+      uses: chronograph-pe/cache
       with:
         path: ~/.opencode/bin
         key: opencode-${{ runner.os }}-${{ runner.arch }}-${{ steps.version.outputs.version }}
